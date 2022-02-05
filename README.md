@@ -1,7 +1,7 @@
 # ROMB - Rust bomb
-Sound more dramatic than it is...
+Sounds more dramatic than it is...
 
-# How I tried to learn rust in 6 days - and failed?
+# How I tried to learn rust in 6 days
 
 ## Prolog
 I'm usually creating web apps with php, js, go or python. I've played around with
@@ -346,4 +346,4 @@ Swap:          11Gi        46Mi        11Gi
         - Searching for "rust clap cli example"
             - https://rustrepo.com/repo/clap-rs-clap-rust-command-line
                 - The Builder seems about perfect
-                - To run `cargo run` with arguments, you have to it with appended "--" like this: "cargo run -- --max_port 25 --start_port 20 target.tld"
+                - To run `cargo run` with arguments, you have to appended "--" and use it like this: "cargo run -- --max_port 25 --start_port 20 target.tld"
